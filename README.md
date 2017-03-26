@@ -1,2 +1,2 @@
 # Aaron Ho
-[[Portfolio]](Ho-Aaron.github.io)
+[[Portfolio]](http://Ho-Aaron.github.io)
